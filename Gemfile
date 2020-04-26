@@ -31,6 +31,9 @@ gem 'react_on_rails', '11.1.4'
 # devise for authentication
 gem 'devise'
 
+# for slim
+gem 'slim'
+
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.2', require: false
 
