@@ -28,6 +28,9 @@ gem 'jbuilder', '~> 2.7'
 # react on rails
 gem 'react_on_rails', '11.1.4'
 
+# devise for authentication
+gem 'devise'
+
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.2', require: false
 
